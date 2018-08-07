@@ -1,7 +1,7 @@
 # To Learn
 
 ## Meta (to be named)
-- [ ] [Pipenv](https://docs.pipenv.org/)
+- [x] [Pipenv](https://docs.pipenv.org/)
 - [ ] [Pyinstaller](https://pyinstaller.readthedocs.io/)
 - [ ] [Travis-CI](https://docs.travis-ci.com/)
 - [ ] [Python Packaging Guide](https://python-packaging-user-guide.readthedocs.io/)

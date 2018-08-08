@@ -5,6 +5,7 @@
 - [ ] [Pyinstaller](https://pyinstaller.readthedocs.io/)
 - [ ] [Travis-CI](https://docs.travis-ci.com/)
 - [ ] [Python Packaging Guide](https://python-packaging-user-guide.readthedocs.io/)
+- [ ] [Python Project Template](https://github.com/seanfisk/python-project-template)
 
 ## Testing
 - [ ] [Unittest](https://docs.python.org/3/library/unittest.html)
